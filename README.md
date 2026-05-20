@@ -18,15 +18,15 @@ A simple and responsive calculator web application built using **HTML, CSS, and 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
 ## 📂 Project Structure
 
-index.html
-cal.css
-cal.js
+-index.html
+-cal.css
+-cal.js
 
 
 ---
