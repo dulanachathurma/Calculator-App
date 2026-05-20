@@ -24,9 +24,9 @@ A simple and responsive calculator web application built using **HTML, CSS, and 
 
 ## 📂 Project Structure
 
--index.html
--cal.css
--cal.js
+- index.html
+- cal.css
+- cal.js
 
 
 ---
