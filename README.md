@@ -37,3 +37,6 @@ cal.js
 ```bash
 git clone https://github.com/dulanachathurma/Calculator-App.git
 
+## Live Demo
+
+https://dulanachathurma.github.io/Calculator-App/
